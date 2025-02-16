@@ -1,5 +1,3 @@
-package com.khaliltech.dropdown_menu.components
-
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
